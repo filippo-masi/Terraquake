@@ -11,7 +11,7 @@ While this study focuses on clay-rich gouges, the approach and findings are expe
 
 ### References
 
-If you use this code, please cite the related papers:
+If you use this code, please cite the related paper and this repository:
 
 F Masi, I Einav (2024). "[Hydrodynamics of fault gouges from constitutive modelling to the physics of friction](https://doi.org/10.48550/arXiv.2411.14660)". arXiv:2411.14660 [physics.geo-ph]
 
